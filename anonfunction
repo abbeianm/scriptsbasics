@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<title>Javascript</title>
+	<meta charset="utf-8">
+
+	<script>
+		
+		var exibirSaudacao = function(nome) {
+			nome = prompt('digite seu nome')
+			document.write('Olá ' + nome +  ' , tudo bem?')
+
+		}
+		exibirSaudacao()
+
+		
+	</script>
+
+</head>
+<body>
+
+</body>
+</html>
